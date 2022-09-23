@@ -16,13 +16,39 @@ body {
   background-color: #333;
   font-size: 0px;
 }
-.menuitem{
-    display: inline-block;
-    border-right: 1px solid #fff;
-    color: #fff;
-    padding: 10px;
-    font-size: 16px;
+/* menu links styles */
+.menuitem {
+  display: inline-block;
+  border-right: 1px solid #fff;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
 }
-.menuitem:hover{
-    background-color: #008c22;
+/* on hover style */
+.menuitem:hover {
+  background-color: #008c22;
 }
+/* page content area style */
+.pagecontentcontainer{
+display: flex;
+}
+/* left page area */
+.leftpagecontent{
+    padding: 15px;
+}
+/* left page heading */
+.leftpagecontent h1{
+    color: #003d60;
+    margin: 0px;
+}
+/* right page area */
+.rightpagecontent{
+    background-color: #e0e0e0;
+    padding: 20px;
+}
+/* right page heading */
+.rightpagecontent h2{
+    color: #074061;
+    margin: 0px;
+}
+
