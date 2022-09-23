@@ -14,12 +14,14 @@ body {
 /* menu bar area style */
 .menucontainer {
   background-color: #333;
+  font-size: 0px;
 }
 .menuitem{
     display: inline-block;
     border-right: 1px solid #fff;
     color: #fff;
     padding: 10px;
+    font-size: 16px;
 }
 .menuitem:hover{
     background-color: #008c22;
