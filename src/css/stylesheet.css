@@ -51,4 +51,10 @@ display: flex;
     color: #074061;
     margin: 0px;
 }
+/* footer styles */
+.footer{
+    background-color: #cccccc;
+    text-align: right;
+    padding: 20px 15px 20px ;
+}
 
