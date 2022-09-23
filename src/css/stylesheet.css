@@ -1,13 +1,26 @@
 /* body removed margin */
-body{
-    margin: 0px;
+body {
+  margin: 0px;
 }
 /* sitetile area styles */
-.title-container{
-    background-color: #ccc;
+.title-container {
+  background-color: #ccc;
 }
-/* sit name styles */
-.sitetitle{
-    margin: 0px;
-    padding: 20px 0px 20px 20px;
+/* site name styles */
+.sitetitle {
+  margin: 0px;
+  padding: 20px 0px 20px 20px;
+}
+/* menu bar area style */
+.menucontainer {
+  background-color: #333;
+}
+.menuitem{
+    display: inline-block;
+    border-right: 1px solid #fff;
+    color: #fff;
+    padding: 10px;
+}
+.menuitem:hover{
+    background-color: #008c22;
 }
