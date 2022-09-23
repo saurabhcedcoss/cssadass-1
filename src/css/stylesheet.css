@@ -1,0 +1,13 @@
+/* body removed margin */
+body{
+    margin: 0px;
+}
+/* sitetile area styles */
+.title-container{
+    background-color: #ccc;
+}
+/* sit name styles */
+.sitetitle{
+    margin: 0px;
+    padding: 20px 0px 20px 20px;
+}
